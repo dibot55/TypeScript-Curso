@@ -1,4 +1,4 @@
-// Problemas de Replicación de variables en TS. Puedes solucionarlas usando IFFES para encerrarlas en el scope
+// Problemas de Replicación de variables en TS. Puedes solucionarlas usando IIFES para encerrarlas en el scope
 
 (()=>{
   let productPrice: number = 12; // Number
