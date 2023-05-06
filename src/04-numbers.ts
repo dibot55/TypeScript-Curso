@@ -1,10 +1,10 @@
 // Numbers
 (()=>{
-  let productPrice = 100;
+  let productPrice = 100;  // Implicita
   productPrice = 12;
   console.log(productPrice)
 
-  let costumerAge: number = 28;
+  let costumerAge: number = 28; // Explicita
   // costumerAge = costumerAge + "1"; //Error
   costumerAge = costumerAge + 1;
   console.log("costumerAge", costumerAge);
