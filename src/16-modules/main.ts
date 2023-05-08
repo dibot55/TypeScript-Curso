@@ -1,14 +1,14 @@
 import { addProducto, calcStock, productos } from "./product.service";
 
 addProducto({
-  title: "Eri",
+  name: "Eri",
   createdAt: new Date(),
   stock: 1,
   size: "C"
 });
 
 addProducto({
-  title: "Yey",
+  name: "Yey",
   createdAt: new Date(),
   stock: 1,
   size: "L"

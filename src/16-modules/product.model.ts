@@ -3,7 +3,7 @@
 export type sizes = "C" | "M" | "L" | "XL";
 
 export type productObject = {
-  title: string,
+  name: string,
   createdAt: Date,
   stock: number,
   size?: sizes
